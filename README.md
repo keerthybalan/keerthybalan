@@ -2,7 +2,7 @@
 
 
 - ❤️ I love statistics, data engineering, data science and books
-- 🔭 I’m currently working as Analytics Engineer @ Samsung Electronics
+- 🔭 I’m currently working as Analytics/ML Engineer @ Samsung Electronics
 - 👩🏾‍🎓 Graduated with Masters in Data Science from University of Amsterdam
 - 🌱 I’m addicted to learning new things everyday. When I'm not tweaking with data, you can find me biking on the streets of Amsterdam or working on my          embroidery designs.
 - 📫 How to reach me: https://www.linkedin.com/in/kbalan/
